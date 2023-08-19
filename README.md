@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **prateekbadsara@gmail.com**
 
+- ⚡ Fun fact **I am new to GitHub and trying to get hold of the platform.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prateekbadsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateekbadsara" height="30" width="40" /></a>
